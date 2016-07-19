@@ -11,10 +11,10 @@ Will the Bears Win Everything | Will the Cubs Win Everything
 ----------------------------- | ----------------------------
 Yes | Yes
 Good Chance of it | Yup
-``` ~~This website is not cool~~
-:smile: ```
+~~This website is not cool
+:smile:
 
 - [x] Eat a bowl of soup
 
-- [ ] Yodel like no one is around 
+ ``` - [ ] Yodel like no one is around ```
 
