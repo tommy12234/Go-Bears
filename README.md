@@ -18,3 +18,7 @@ Good Chance of it | Yup
 
 - [ ] Yodel like no one is around 
 
+git fetch origin
+git checkout -b master origin/master
+git merge readme.md
+
