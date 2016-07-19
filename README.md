@@ -16,6 +16,5 @@ Good Chance of it | Yup
 
 - [x] Eat a bowl of soup
 
- ``` - [ ] Yodel like no one is around 
- ```
+- [ ] Yodel like no one is around 
 
