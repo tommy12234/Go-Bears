@@ -11,3 +11,4 @@ Will the Bears Win Everything | Will the Cubs Win Everything
 ----------------------------- | ----------------------------
 Yes | Yes
 Good Chance of it | Yup
+~~This website is not cool~~
